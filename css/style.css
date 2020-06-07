@@ -1,0 +1,31 @@
+body {
+    background: rgb(167, 165, 125);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+header {
+    margin-top: 70px;
+}
+
+h1 {
+    color: red;
+    font-family: fantasy;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+.img_default {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+p {
+    font-size: 18px;
+}
